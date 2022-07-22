@@ -1,0 +1,15 @@
+{
+  "name": "evolvfit",
+  "version": "1.0.0",
+  "description": "Internship challenge project for Backend role",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soumyadeep Paul",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
